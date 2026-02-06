@@ -1,0 +1,625 @@
+{
+  "mostra": {
+    "mostraLinee": true
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.601152429657265,
+          40.66701001746023
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "images": [
+          {
+            "active": true,
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-swipe-up"
+          }
+        ],
+        "source-credit": "#",
+        "videoUrl": "",
+        "videoDes": "",
+        "description": "<h3><strong>Tour 8 gg -7 nt</strong></h3><ul><li>Hammamet/Kairouan/Gafsa/Nefta/Tozeur/Oasi di montagna/Canyon Sidi Bou Hlel/Chott El Djerid /Douz)Matmata/Toujane/Djerb/Port El Kantoui-Sousse/Cartagine/ Sidi Bou Said/Tunisi</li><li>Dal 04 al 11 Maggio 2026</li><li>Voli di linea</li><li>Accompagnatore da Matera</li><li>Pernottamento in Hotel 4*, trattamento pensione completa</li><li>Tour come da programma con bus GT</li><li>Guida parlante italiano per tutto il tour</li><li>Assicurazione medico/bagaglio</li></ul>",
+        "zoom": 15.852508991239196,
+        "videos": false,
+        "id": 1,
+        "roundedCircle": false,
+        "source-link": "#",
+        "iscredit": false
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.601152429657265,
+          40.66701001746023
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Partenza da Matera in bus. Arrivo a Roma",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-2",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22fc-6852-718c-a134-2259302c728b"
+          }
+        ],
+        "source-credit": "#",
+        "zoom": 15.852508991239196,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 2,
+        "roundedCircle": true,
+        "titoloTappa": "04 maggio • Matera/Roma/Tunisi/Hammamet",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.245115621702004,
+          41.80307061821546
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "ore 16.35 Roma imbarco sul volo di linea per Tunisi",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-3",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22fc-c150-744c-a73d-99f9862fbb90"
+          }
+        ],
+        "source-credit": "#",
+        "videoUrl": "",
+        "videoDes": "",
+        "zoom": 13.681724984911734,
+        "videos": false,
+        "id": 3,
+        "roundedCircle": true,
+        "source-link": "#",
+        "iscredit": false
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.1857757,
+          36.8002068
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Tunisi ore 16,50",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-4",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22fd-591b-71ff-b480-0928160205e6"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>incontro con il nostro rappresentante. Trasferimento in hotel. Resto della giornata a disposizione. Cena e pernottamento in hotel ad Hammamet.</p>",
+        "zoom": 8,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 4,
+        "roundedCircle": true,
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.10420823953456,
+          35.68127681211922
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Moschea di Kairouan, Patrimonio dell’umanità dell’UNESCO.",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-5",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22b9-6ac5-7bd9-9045-42c284873244"
+          },
+          {
+            "active": false,
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22b9-a3f2-7ff9-9769-91688eae1167"
+          },
+          {
+            "active": false,
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22b9-d0d7-71a6-8a78-f583a1783d16"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Prima colazione e partenza per Kairouan. Visita della grande Moschea di Kairouan, Patrimonio dell’umanità dell’UNESCO. Questa moschea, risalente al VII secolo, è un capolavoro dell’architettura islamica. Pranzo in ristorante locale a Gafsa, città famosa per i suoi bacini in pietra romani e i suoi tendaggi dai colori vivaci. Partenza per Tozeur.</p>",
+        "zoom": 12,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 5,
+        "roundedCircle": true,
+        "titoloTappa": "05 maggio • Hammamet/Kairouan/Gafsa/Nefta/Tozeur",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.1370639,
+          33.9239001
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Visita alla cittadina di Tozeur",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-6",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22c9-b61b-7edd-a3db-7b9ccd2c313c"
+          },
+          {
+            "active": false,
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22c9-f40d-74dc-958a-0b0b446c5f85"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Visita alla cittadina in calesse. I vecchi quartieri presentano un aspetto molto particolare e potrete percorrere le viuzze e i passaggi coperti che regalano una sorprendente sensazione di freschezza sotto il sole del Sahara. Si potranno ammirare le facciate di mattoni color sabbia e le loro stupefacenti decorazioni in rilievo. Sistemazione in hotel, cena e pernottamento.</p>",
+        "zoom": 8,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 6,
+        "roundedCircle": true,
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.939924435988756,
+          34.322196003514165
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Oasi di montagna Chebika",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-7",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22ff-fefd-7403-8ca0-9b00d7c34924"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Prima colazione. Escursione in jeep alle oasi di montagna Chebika, Tamerza e Mides, dove si possono ancora trovare tracce di sopravvivenze berbere ed uno scenario naturale mozzafiato. La nostra avventura continua sulle orme della saga di Guerre Stellari, con la visita a Ong Jmel, che ha visto la nascita di scene di culto di questa epopea intergalattica, al quartiere degli schiavi di Mos Espa, la città spazioporto. Ong Jmel, che in arabo significa “Collo del cammello”, offre un paesaggio sabbioso e unico con edifici in argilla, utilizzati per ricreare le atmosfere fantascientifiche del pianeta desertico. La visita a Ong Jmel è un’esperienza indimenticabile anche solo per i curiosi, un’immersione nel mondo di Guerre Stellari, esplorando gli autentici set utilizzati nel film per lasciarsi trasportare in una galassia lontana. Pranzo e proseguimento per il suggestivo canyon di Sidi Bou Hlel, in cui sono state girate non solo le scene dei film di Guerre Stellari, ma anche di Indiana Jones e i Predatori dell’arca perduta e Il Paziente inglese.</p>",
+        "zoom": 12,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 7,
+        "roundedCircle": true,
+        "titoloTappa": "06 maggio • Tozeur/Oasi di montagna/Canyon Sidi Bou Hlel/Chott El Djerid /Dou",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.280565171411547,
+          34.03638236897481
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Canyon di Sidi Bou Hlel",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-8",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22da-297e-7003-ac77-f7b981dbb042"
+          }
+        ],
+        "source-credit": "#",
+        "videoUrl": "",
+        "videoDes": "",
+        "description": "<p>&nbsp;canyon di Sidi Bou Hlel, in cui sono state girate non solo le scene dei film di Guerre Stellari, ma anche di Indiana Jones e i Predatori dell’arca perduta e Il Paziente inglese. Il Canyon di Sidi Bou Hlel, è un luogo iconico vicino a Tozeur, offre un paesaggio secco e spettacolare con formazioni rocciose e scogliere uniche, creando l’ambiente perfetto per scene d’azione e avventura. Si riparte per raggiungere la famosissima Douz,</p>",
+        "videos": false,
+        "id": 8,
+        "roundedCircle": true,
+        "source-link": "#",
+        "iscredit": false
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.024583728057202,
+          33.455272359821535
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Douz, la città-oasi",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-9",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22de-c395-7246-883a-e2b51d83f9e1"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Douz la città-oasi dal fascino autentico che offre un'esperienza unica nel cuore del Sahara tunisino. Douz è conosciuta come la \"porta del Sahara\", è il punto di partenza perfetto per esplorare il deserto e immergersi nella cultura nomade dei Mrazig. Circondata da palmeti e piantagioni di datteri, Douz è un crocevia di tradizioni antiche e moderne, dove i colorati mercati tradizionali si fondono con un'ospitalità senza pari. Durante il tragitto breve sosta al suggestivo lago salato di Chott El Djerid, antico mare interno quasi interamente prosciugato, ricoperto da una crosta di sale di un biancore splendente. Possibilità di escursione a Douz a dorso di dromedario oppure in quad (opzionali e a pagamento). Arrivo in hotel, sistemazione nelle camere riservate, cena e pernottamento.</p>",
+        "zoom": 16.339207996459663,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 9,
+        "roundedCircle": true,
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.967321503127408,
+          33.548769976936576
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Matmata e visita di una dimora rupestre",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-10",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22e1-dc08-7543-8655-861e60d1fae7"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Dopo la prima colazione inizio di un'altra affascinante giornata attraverso paesaggi che sembrano provenire da un altro mondo. Partenza per Matmata e visita di una dimora rupestre. Qui avremo l'opportunità di incontrare una famiglia berbera, immergendoci nella vita tradizionale e nella cultura locale. Matmata è un luogo che incanta con la sua storia millenaria e la sua unicità, con i suoi paesaggi lunari, è un vero museo a cielo aperto, le case sono opere d’arte architettoniche, scavate nel cuore della terra. Il tour continuerà con la visita all'iconico Hotel Sidi Driss, una struttura troglodita che offre un’atmosfera unica, trasportando i visitatori nella saga di Guerre Stellari e permettendo loro di immaginare le affascinanti scene che vi hanno avuto luogo. Pranzo in ristorante locale a Sidi Driss. Proseguimento verso Toujane, autentico villaggio berbero noto per le sue tradizioni locali, i costumi colorati ed i suoi gioielli unici. Si continua per raggiungere Djerba, con sosta a Guellala, famosa per le ceramiche e porcellane artigianali sin dai tempi di Re Mida. Visita di Houmt Souk (capitale dell'Isola di Djerba). Houmt Souk è un grazioso villaggio di pescatori che letteralmente vuol dire \"città mercato\", dato che la vita di questo villaggio ruota intorno al souk, cioè mercato, dove si compra, si vende o ci si riunisce per fare due chiacchiere davanti ad un buon tè alla menta. Arrivo e sistemazione in hotel, cena e pernottamento</p>",
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 10,
+        "roundedCircle": true,
+        "titoloTappa": "07 maggio • Douz/Matmata/Toujane/Djerba",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.70660571356219,
+          35.29652450785956
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "El Djem",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-11",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22e6-a09c-7853-a227-2c4dba180128"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Prima colazione e partenza per El Djem e pranzo in ristorante locale. Visita all'antica città di Thysdrus, una delle più prospere dell'Africa romana. visita all'Anfiteatro romano, edificato in pietra arenaria locale, testimonia la maestria ingegneristica dei Romani; le pareti e le arcate, alte fino a 36 metri, si stagliano ancora oggi come una prova tangibile del passato glorioso di questa città. I visitatori possono osservare le tracce dei gladiatori, cacciatori e animali selvaggi che un tempo riempivano l'arena. Proseguimento verso Port El Kantaouyi-Sousse, sistemazione in hotel, cena e pernottamento.</p>",
+        "zoom": 12,
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 11,
+        "roundedCircle": true,
+        "titoloTappa": "08 maggio • Djerba/El Djem/ Port El Kantaouyi-Sousse",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.811309954837613,
+          35.76442558594784
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Medina di Monastir,",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-12",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22e9-aace-7865-94b9-32d829bd2901"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Prima colazione. Si comincia la giornata nella Medina di Monastir, con una passeggiata per le strade labirintiche, immersi nell'atmosfera autentica di un'antica città araba. Successivamente, visita del maestoso Ribat, un capolavoro architettonico che si affaccia sul Mediterraneo, con mura e torri ben conservate che offrono panorami mozzafiato. Il viaggio continua verso la Moschea Bourguiba, una splendida miscela di architettura islamica tradizionale e moderna. Si prosegue verso Sousse, una delle città più antiche della Tunisia, che offre una perfetta combinazione di storia, spiagge incantevoli, cultura locale e vita notturna. Visita del centro storico di Sousse, la cui Medina è stata dichiarata Patrimonio mondiale UNESCO, dove gli stretti vicoli sono animati dagli aromi delle spezie locali e dai vivaci colori del mercato. Ultima tappa al porto turistico di Port El Kantaoui. Rinetro in hotel per il pranzo. Pomeriggio libero per relax e mare. Cena e pernottamento in hotel.</p>",
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 12,
+        "roundedCircle": true,
+        "titoloTappa": "09 maggio • Port El Kantaouyi-Sousse",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.634606883190921,
+          35.82474579610983
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Visita del centro storico di Sousse",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-13",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c2301-46e1-7fa8-8731-15aa6baf488b"
+          }
+        ],
+        "source-credit": "#",
+        "videoUrl": "",
+        "videoDes": "",
+        "description": "<p>Visita del centro storico di Sousse, la cui Medina è stata dichiarata Patrimonio mondiale UNESCO, dove gli stretti vicoli sono animati dagli aromi delle spezie locali e dai vivaci colori del mercato. Ultima tappa al porto turistico di Port El Kantaoui. Rientro in hotel per il pranzo. Pomeriggio libero per relax e mare. Cena e pernottamento in hotel.</p>",
+        "videos": false,
+        "id": 13,
+        "roundedCircle": true,
+        "source-link": "#",
+        "iscredit": false
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.323246630112367,
+          36.8703052860523
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Città di Cartagine",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-14",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22f3-95a3-75f7-9006-aab6ba2b8f59"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Dopo la prima colazione partenza Tunisi e passeggiata nell'affascinante Medina. Di seguito partenza per la visita dell'antica città di Cartagine, Questa città fenicia un tempo potente, con la sua ricca storia vi affascinerà durante l'esplorazione dell'impressionante sito archeologico. I punti salienti sono le grandiose Terme Antonine, che offrono una vista mozzafiato sul Mediterraneo, e la Collina di Byrsa, dove si trovava l'antica cittadella. Successivamente ci dirigeremo a Sidi Bou Said, un pittoresco villaggio noto per la sua affascinante architettura bianca e blu. Arroccato su una collina che domina il mare, Sidi Bou Said incanta con le sue strade strette e tortuose e i suoi panorami mozzafiato. Passeggiando per il villaggio, si potranno visitare caffè e negozi caratteristici e ci si potrà concedere un momento di relax con una tazza opzionale del tradizionale tè alla menta, godendoci l'atmosfera serena. Pranzo in un ristorante tipico. Il tour prosegue con una visita al Museo del Bardo di Tunisi, ospitato in un antico palazzo. Il museo vanta una vasta collezione di manufatti, tra cui spiccano i mosaici romani. Ogni mosaico, con i suoi disegni intricati e i suoi colori vivaci, racconta una storia unica del variegato passato della Tunisia. Sistemazione in hotel a Tunisi, cena e pernottamento.</p>",
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 14,
+        "roundedCircle": true,
+        "titoloTappa": "10 maggio • Port El Kantoui-Sousse/Cartagine/ Sidi Bou Said/Tunisi",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.217527910817283,
+          36.84773646916202
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Aeroporto Tunisi",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-15",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22f7-4a6c-77fc-9038-9d2e43d6dc65"
+          },
+          {
+            "active": false,
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22f7-0f02-70ed-bb70-8a8ef72214ad"
+          }
+        ],
+        "source-credit": "#",
+        "description": "<p>Prima colazione. Trasferimento in aeroporto tempo utile per la partenza del volo diretto a Roma delle ore 13.00</p>",
+        "videos": false,
+        "iscredit": false,
+        "videoUrl": "",
+        "videoDes": "",
+        "id": 15,
+        "roundedCircle": true,
+        "titoloTappa": "11 maggio • Tunisi/Roma/Matera",
+        "source-link": "#"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.245657222718057,
+          41.80484254461504
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "Arrivo Aeroporto Roma ore 15.25.",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-16",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c2301-c49e-70c5-b870-2ca9c5c1104a"
+          }
+        ],
+        "source-credit": "#",
+        "videoUrl": "",
+        "videoDes": "",
+        "zoom": 11.163408331891022,
+        "videos": false,
+        "id": 16,
+        "roundedCircle": true,
+        "source-link": "#",
+        "iscredit": false
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.60112419246551,
+          40.66706302913502
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "simbolo": {},
+        "chapter": "ore 15.25. Partenza in bus per Matera con arrivo in serata",
+        "images": [
+          {
+            "active": true,
+            "idImage": "Image-17",
+            "url": "https://geoviaggi.lucanasistemi.com/geoviaggi/api/get-image/019c22fa-22c4-780e-97e6-84da34298e63"
+          }
+        ],
+        "source-credit": "#",
+        "videoUrl": "",
+        "videoDes": "",
+        "zoom": 16.017385840045836,
+        "videos": false,
+        "id": 17,
+        "roundedCircle": true,
+        "source-link": "#",
+        "iscredit": false
+      }
+    }
+  ],
+  "titoloViaggio": {
+    "titolo": "Tour in Tunisia"
+  },
+  "type": "FeatureCollection",
+  "featureLine": {
+    "geometry": {
+      "coordinates": [
+        [
+          16.601152429657265,
+          40.66701001746023
+        ],
+        [
+          16.601152429657265,
+          40.66701001746023
+        ],
+        [
+          12.245115621702004,
+          41.80307061821546
+        ],
+        [
+          10.1857757,
+          36.8002068
+        ],
+        [
+          10.10420823953456,
+          35.68127681211922
+        ],
+        [
+          8.1370639,
+          33.9239001
+        ],
+        [
+          7.939924435988756,
+          34.322196003514165
+        ],
+        [
+          8.280565171411547,
+          34.03638236897481
+        ],
+        [
+          9.024583728057202,
+          33.455272359821535
+        ],
+        [
+          9.967321503127408,
+          33.548769976936576
+        ],
+        [
+          10.70660571356219,
+          35.29652450785956
+        ],
+        [
+          10.811309954837613,
+          35.76442558594784
+        ],
+        [
+          10.634606883190921,
+          35.82474579610983
+        ],
+        [
+          10.323246630112367,
+          36.8703052860523
+        ],
+        [
+          10.217527910817283,
+          36.84773646916202
+        ],
+        [
+          12.245657222718057,
+          41.80484254461504
+        ],
+        [
+          16.60112419246551,
+          40.66706302913502
+        ]
+      ],
+      "type": "LineString"
+    }
+  }
+}
