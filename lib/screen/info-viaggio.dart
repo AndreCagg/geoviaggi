@@ -391,7 +391,7 @@ class _InfoViaggioState extends State<InfoViaggio> {
     final double band = viewportH! * 0.1;
 
     final double offset = notification.metrics.pixels;
-    if ((lastOffset - offset).abs() <= 10) return;
+    //if ((lastOffset - offset).abs() <= 5) return;
     final bool isScrollingUp = offset < lastOffset;
     lastOffset = offset;
 
