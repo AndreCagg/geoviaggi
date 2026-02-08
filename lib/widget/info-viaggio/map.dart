@@ -1,5 +1,8 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
+import 'package:flutter_map_animations/flutter_map_animations.dart';
 import 'package:geoviaggi/provider/map-provider.dart';
 import 'package:geoviaggi/widget/info-viaggio/map-controller.dart';
 import 'package:latlong2/latlong.dart';
@@ -8,11 +11,9 @@ import 'package:provider/provider.dart';
 class CustomMap extends StatefulWidget {
   CustomMap({
     super.key,
-    required this.controller,
     required this.mykey,
     required this.customMapController,
   });
-  final MapController controller;
   final GlobalKey mykey;
   final CustomMapController customMapController;
 
@@ -23,47 +24,21 @@ class CustomMap extends StatefulWidget {
 }
 
 class _CustomMapState extends State<CustomMap> with TickerProviderStateMixin {
+  late AnimatedMapController animations;
+
   void animatedMapMove(LatLng destLocation, double destZoom) {
-    final camera = widget.controller.camera;
-
-    final latTween = Tween<double>(
-      begin: camera.center.latitude,
-      end: destLocation.latitude,
+    animations.animateTo(
+      dest: destLocation,
+      zoom: destZoom,
+      cancelPreviousAnimations: true,
+      duration: Duration(milliseconds: 200),
+      curve: Curves.easeInOut,
     );
-    final lngTween = Tween<double>(
-      begin: camera.center.longitude,
-      end: destLocation.longitude,
-    );
-
-    final controller = AnimationController(
-      duration: Duration(milliseconds: 450),
-      vsync: this,
-    );
-
-    final animation = CurvedAnimation(
-      parent: controller,
-      curve: Curves.easeInOutCubic,
-    );
-
-    controller.addListener(() {
-      widget.controller.move(
-        LatLng(latTween.evaluate(animation), lngTween.evaluate(animation)),
-        destZoom,
-      );
-    });
-
-    animation.addStatusListener((status) {
-      if (status == AnimationStatus.completed ||
-          status == AnimationStatus.dismissed) {
-        controller.dispose();
-      }
-    });
-
-    controller.forward();
   }
 
   @override
   void initState() {
+    animations = AnimatedMapController(vsync: this);
     widget.customMapController.animatedMove = animatedMapMove;
     super.initState();
   }
@@ -74,10 +49,10 @@ class _CustomMapState extends State<CustomMap> with TickerProviderStateMixin {
       builder: (BuildContext context, MapProvider value, Widget? child) {
         return FlutterMap(
           key: widget.mykey,
-          mapController: widget.controller,
+          mapController: animations.mapController,
           options: MapOptions(
             initialCenter: LatLng(40.666634, 16.601161),
-            interactionOptions: InteractionOptions(flags: InteractiveFlag.all),
+            //interactionOptions: InteractionOptions(flags: InteractiveFlag.all),
           ),
           children: [
             TileLayer(
